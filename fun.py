@@ -6,3 +6,5 @@ def example_function():
 
 results = analyze_code(code)
 print(results)
+
+#added test comment
