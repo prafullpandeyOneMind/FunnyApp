@@ -6,3 +6,11 @@ def example_function():
 
 results = analyze_code(code)
 print(results)
+
+print(x)
+this is error also
+
+def this():
+    pass
+this line is also error
+print(z)
